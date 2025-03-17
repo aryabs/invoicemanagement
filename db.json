@@ -1,0 +1,45 @@
+{
+  "invoices": [
+    {
+      "0": {
+        "Invoice ID": "001",
+        "Employee Name": "John Doe",
+        "Amount": "150.00",
+        "Date": "2025-03-01",
+        "Status": "Pending"
+      },
+      "1": {
+        "Invoice ID": "002",
+        "Employee Name": "Jane Smith",
+        "Amount": "250.00",
+        "Date": "2025-03-02",
+        "Status": "Approved"
+      },
+      "2": {
+        "Invoice ID": "003",
+        "Employee Name": "Tom Brown",
+        "Amount": "120.00",
+        "Date": "2025-03-03",
+        "Status": "Rejected"
+      },
+      "3": {
+        "Invoice ID": "004",
+        "Employee Name": "Emily Davis",
+        "Amount": "300.00",
+        "Date": "2025-03-04",
+        "Status": "Pending"
+      },
+      "4": {
+        "Invoice ID": "005",
+        "Employee Name": "Michael Wilson",
+        "Amount": "500.00",
+        "Date": "2025-03-05",
+        "Status": "Approved"
+      },
+      "5": {
+        "Invoice ID": ""
+      },
+      "id": "1579"
+    }
+  ]
+}
