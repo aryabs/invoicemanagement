@@ -12,7 +12,7 @@ Make sure you have the following installed on your machine:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-repository.git
+  
 2. Run the React application
    npm start  
 
